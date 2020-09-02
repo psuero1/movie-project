@@ -22,7 +22,7 @@
 ![studio2018](https://github.com/psuero1/movie-project/blob/master/Visualization%20png/studio2018.png?raw=true)
       
       
-      #### BV studio (Walt Disney Studios) shows to be the leader in movie releases
+  #### BV studio (Walt Disney Studios) shows to be the leader in movie releases
   
       
   
