@@ -18,25 +18,23 @@
 ## Findings
   ### Studios
    Top grossing studios the past 5 years (2014-2018)
-![studio2018](https://github.com/psuero1/movie-project/blob/master/studio2018.png?raw=true)      
+   
+![studio2018](https://github.com/psuero1/movie-project/blob/master/Visualization%20png/studio2018.png?raw=true)
       
       
-      - BV studio (Walt Disney Studios) shows to be the leader in movie releases
+      #### BV studio (Walt Disney Studios) shows to be the leader in movie releases
   
       
-      
-  ### Genre
-      - Top genres    
-      - Action/Adventure is always at the top of domestic gross.
-  
   
   ### Runtime
       - Average Runtimes
-   ![runtime average](https://github.com/psuero1/movie-project/blob/master/Avg%20Runtime%202014-2018.png?raw=true)
+   ![runtime average](https://github.com/psuero1/movie-project/blob/master/Visualization%20png/Avg%20Runtime%202014-2018.png)
    ![runtime 2014-2015](https://github.com/psuero1/movie-project/blob/master/Runtime%202014-2015.png?raw=true)
-   ![runtime 2014-2015](https://github.com/psuero1/movie-project/blob/master/Runtime%202016-2018.png?raw=true)
+   ![runtime 2016-2018](https://github.com/psuero1/movie-project/blob/master/Runtime%202016-2018.png?raw=true)
       
 
+  ### Genre
+      Action/Adventure is always at the top of domestic gross.
   
   
 ## Recommendation
