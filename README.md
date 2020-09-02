@@ -33,7 +33,7 @@
   Runtime
       - Average Runtimes
       
-      https://github.com/psuero1/movie-project/blob/master/Runtime%202014-2015.png?raw=true
+      ![runtime 2014-2015]https://github.com/psuero1/movie-project/blob/master/Runtime%202014-2015.png?raw=true
       
 
   
