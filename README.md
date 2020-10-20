@@ -30,7 +30,7 @@
       - Average Runtimes
    ![runtime average](https://github.com/psuero1/movie-project/blob/master/Visualization%20png/Avg%20Runtime%202014-2018.png)
    ![runtime 2014-2015](https://github.com/psuero1/movie-project/blob/master/Visualization%20png/Runtime%202014-2015.png)
-   ![runtime 2016-2018](https://github.com/psuero1/movie-project/blob/master/Runtime%202016-2018.png?raw=true)
+   ![runtime 2016-2018](https://github.com/psuero1/movie-project/blob/master/Visualization%20png/Runtime%202016-2018.png)
       
 
   ### Genre
